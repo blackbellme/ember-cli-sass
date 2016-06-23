@@ -14,6 +14,7 @@
   "license": "MIT",
   "dependencies": {
     "broccoli-merge-trees": "^0.2.1",
+"broccoli-sass-source-maps": "blackbellme/broccoli-sass-source-maps",
     "ember-cli-version-checker": "^1.0.2",
     "merge": "^1.2.0"
   },
